@@ -41,4 +41,12 @@
 * Recursion
 * Strings with Inbuilt Functions
 
+#####----Session 4----
+*Strings without Inbuilt Functions
+*Structures
+*Unions
+*Type Casting
+*Enumerations
+*File Operations
+
 ### Yuo are welcome to update these source codes if they contain any miss matches.
